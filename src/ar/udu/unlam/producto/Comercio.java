@@ -3,7 +3,9 @@ package ar.udu.unlam.producto;
 import java.util.ArrayList;
 
 public class Comercio {
-			
+		
+		private String nombrecito;
+	
 		private String nombre;
 		
 	    private ArrayList <Producto> lista= new ArrayList <Producto> ();
